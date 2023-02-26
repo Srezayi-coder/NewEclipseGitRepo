@@ -6,5 +6,8 @@ public class EclipseGit {
 		// TODO Auto-generated method stub
 
 	}
+	public static void Test(){
+		
+	}
 
 }
