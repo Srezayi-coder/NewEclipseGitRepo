@@ -7,7 +7,9 @@ public class EclipseGit {
 
 	}
 	public static void Test(){
+		System.out.println("hi");
 		
 	}
+	
 
 }
